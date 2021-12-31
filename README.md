@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://github.com/Abhi6722/WeatherApp">
-        <img alt="Weather App" src="https://github.com/Abhi6722/WeatherApp/blob/master/.github/Logo.png" width="146">
+    <a href="https://github.com/sinhasukriti/WeatherApp">
+        <img alt="Weather App" src="https://github.com/sinhasukriti/WeatherApp/blob/master/.github/Logo.png" width="146">
     </a>
 </p>
 
@@ -17,9 +17,9 @@
 
 This is a Weather Application made with Kotlin. I am learning Kotlin so I decided to build a app using Kotlin and I came up with an idea to start with something simple through which I can learn lots of things.
 
-<a id="raw-url" href="https://github.com/Abhi6722/WeatherApp/releases/download/v1/WeatherApp.apk">Download App</a>
+<a id="raw-url" href="https://github.com/sinhasukriti/WeatherApp/releases/download/v1/WeatherApp.apk">Download App</a>
 
 ***
 
 
-<img src="https://github.com/Abhi6722/WeatherApp/blob/master/.github/WeatherApp.png" align="centre">
+<img src="https://github.com/sinhasukriti/WeatherApp/blob/master/.github/WeatherApp.png" align="centre">
