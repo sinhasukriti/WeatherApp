@@ -29,3 +29,53 @@ Has this ever happened to you that you have planned on visiting on a trip or pic
 
 ## Proposed Solution :
 Weather App is built using kotlin with the main purpose of showing the weather. It uses openweathermap API to get live and regular updates on the weather. Along with the temperature it also shows the weather like if the weather is clear it will show clear sky. It also shows the minimum and maximum temperature of the day. One more special feature is that it shows the timimg of sunset and sunrise which is a very handy feature. It also displays the wind speed, humidity in air and air pressure so that you can make your plans accordingly. Well there are various weather application available out there but the thing that distinguish this from other weather app is it's light weight and beautiful UI. The application is light weight (2.49 MB) which can run on almost all android devices (greater or equal to android v5.0). 
+
+## Features :
+
+- **Weather** - Displays the weather like clear sky,rainy,etc.
+- **Minimum & Maximum Temp** - Displays the Minimum & Maximum Temperature.
+- **Sunrise and Sunset** - Shows the timimg of sunset and sunrise.
+- **Wind Speed** - Shows wind speed which makes it awesome.
+- **Humidity** - Shows humidity of air.
+- **Air Pressure** - Shows air pressure.
+
+
+## Getting Started :
+* Fork it.
+
+* Clone your forked repo and move inside it:
+```
+git clone https://github.com/sinhasukriti/WeatherApp.git && cd WeatherApp
+```
+* Checkout to a new branch to work on an issue:
+```
+git checkout -b my-amazing-feature
+```
+* Running the project
+
+**open the project in Android Studio and run!**
+
+* Once you're all done coding, it's time to open a PR :)
+Run the following commands from the root of the project directory:
+```
+git add .
+```
+```
+git commit -m "A short description about the feature."
+```
+```
+git push origin <my-amazing-feature>
+```
+
+Open your forked repo in your browser and then raise a PR to the `master` branch of this repository!
+
+
+## Contributing :
+New contributors are always welcome to support this project. If you want something gentle to start with, check out issues labelled as `easy` or `good-first-issue`:) 
+
+
+#### Liked this repo, give it a star ⭐ and fork 🍽️ this repo to help others!!
+
+***You can Install and test latest Touch Notes app from below 👇*** <br> 
+
+<a id="raw-url" href="https://github.com/sinhasukriti/WeatherApp/releases/download/v1/WeatherApp.apk">Download App</a>
